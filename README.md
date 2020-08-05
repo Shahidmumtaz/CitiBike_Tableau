@@ -8,5 +8,4 @@ Final Product
 _________________________________________________________________________________________________________________________________________
 See the final analysis in the link below:
 
-https://public.tableau.com/profile/shahid7174#!/vizhome/CitiBikeDashboard_15910391517400/CitiBikeStory
-
+https://public.tableau.com/views/CitiBikeDashboard_15910511689960/CitiBikeStory?:language=en&:display_count=y&:origin=viz_share_link
